@@ -1,0 +1,9 @@
+train: ../newyolo2.v1i.yolov7pytorch/train/images/
+val: ../newyolo2.v1i.yolov7pytorch/valid/images/
+test: ../newyolo2.v1i.yolov7pytorch/test/images/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['nucleus']
