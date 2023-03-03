@@ -1,6 +1,6 @@
-train: ../newyolo2.v1i.yolov7pytorch/train/images/
-val: ../newyolo2.v1i.yolov7pytorch/valid/images/
-test: ../newyolo2.v1i.yolov7pytorch/test/images/
+train: data/yolo2.v1i.yolov7pytorch/train/images/
+val: data/yolo2.v1i.yolov7pytorch/valid/images/
+test: data/yolo2.v1i.yolov7pytorch/test/images/
 
 # number of classes
 nc: 1
