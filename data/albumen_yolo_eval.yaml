@@ -1,0 +1,9 @@
+train: data/yolo/train/images/
+val: data/yolo/test/images/
+test: data/yolo/test/images/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['nucleus']
